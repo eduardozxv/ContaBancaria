@@ -1,13 +1,5 @@
 import java.util.Scanner;
 
-/*
-* Quer que informe o numero da conta
-*Nome do titular
-*Valor inicial do deposito (pode depositar 0 reais, é opcional
-* numero da conta tem que ser private e não pode ser alterado
-* Saldo da conta tem que ser private
-* Depositar ou sacar dinheiro, cobra uma taxa de R$5,00
-*/
 public class Main {
     public static <dados> void main(String[] args) {
 
